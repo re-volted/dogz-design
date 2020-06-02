@@ -1,0 +1,29 @@
+{
+  "name": "zadanie",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@progress/kendo-buttons-vue-wrapper": "^2020.2.513",
+    "@progress/kendo-popups-vue-wrapper": "^2020.2.513",
+    "@progress/kendo-theme-material": "^3.15.1",
+    "@progress/kendo-ui": "^2020.2.513",
+    "@progress/kendo-vue-inputs": "^1.0.0",
+    "@progress/kendo-vue-intl": "^1.0.0",
+    "core-js": "^3.6.4",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.3.0",
+    "@vue/cli-service": "~4.3.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
